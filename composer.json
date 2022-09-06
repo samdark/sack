@@ -13,7 +13,7 @@
     "autoload": {
         "psr-4": {
             "Samdark\\Sack\\": "src/",
-            "Samdark\\Sack\\Tests\\": "src/tests"
+            "Samdark\\Sack\\Tests\\": "tests/"
         }
     },
     "authors": [
