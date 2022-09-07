@@ -9,7 +9,7 @@
 [![static analysis](https://github.com/samdark/sack/workflows/static%20analysis/badge.svg)](https://github.com/samdark/sack/actions?query=workflow%3A%22static+analysis%22)
 [![type-coverage](https://shepherd.dev/github/samdark/sack/coverage.svg)](https://shepherd.dev/github/samdark/sack)
 
-This package provides implements "0-1 Knapsack Problem" algorithm i.e. allows to find the best way to fill
+This package implements "0-1 Knapsack Problem" algorithm i.e. allows to find the best way to fill
 a knapsack of a specified volume with items of a certain volume and value.
 
 It could be applied to:
