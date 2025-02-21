@@ -1,7 +1,7 @@
 <h1 align="center">Sack</h1>
 
-[![Latest Stable Version](https://poser.pugx.org/samdark/sack/v/stable.png)](https://packagist.org/packages/samdark/sack)
-[![Total Downloads](https://poser.pugx.org/samdark/sack/downloads.png)](https://packagist.org/packages/samdark/sack)
+[![Latest Stable Version](https://poser.pugx.org/samdark/sack/v)](https://packagist.org/packages/samdark/sack)
+[![Total Downloads](https://poser.pugx.org/samdark/sack/downloads)](https://packagist.org/packages/samdark/sack)
 [![Build status](https://github.com/samdark/sack/workflows/build/badge.svg)](https://github.com/samdark/sack/actions?query=workflow%3Abuild)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/samdark/sack/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/samdark/sack/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/samdark/sack/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/samdark/sack/?branch=master)
